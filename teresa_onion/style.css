@@ -1,0 +1,25 @@
+body {
+	background-image: url("../morris.jpg")
+}
+
+
+		.header1 {
+			color: green;
+		}
+
+		.intro {
+			font-size: 32px;
+		}
+
+		.header1, .header2 {
+			font-family: Georgia;
+			text-align: center;
+		}
+
+		.body {
+			line-height: 19px;
+		}
+
+		p.uppercase {
+    		text-transform: uppercase;
+		}
